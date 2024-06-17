@@ -16,11 +16,11 @@ setup(
         packages=find_packages(),
         install_requires=[], # add any additional packages that 
         # needs to be installed along with your package. Eg: 'caer'
-        MAINTAINER = "Shael Brown"
-        MAINTAINER_EMAIL = "shaelebrown@gmail.com"
-        URL = "https://github.com/shaelebrown/TDApplied_py"
+        MAINTAINER = "Shael Brown",
+        MAINTAINER_EMAIL = "shaelebrown@gmail.com",
+        URL = "https://github.com/shaelebrown/TDApplied_py",
         LICENSE = "GNU AGPLv3",
-        KEYWORDS = "machine learning, topological data analysis, persistent homology, persistence diagrams, inference"
+        KEYWORDS = ["machine learning", "topological data analysis", "persistent homology", "persistence diagrams", "inference"],
         CLASSIFIERS = ["Intended Audience :: Science/Research",
                "Intended Audience :: Developers",
                "License :: OSI Approved",
